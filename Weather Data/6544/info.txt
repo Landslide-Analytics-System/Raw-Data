@@ -1,0 +1,3 @@
+Landslide occurred on 2017-04-23 at 24.74540185, 116.7514166 in China.
+ There were 3 fatalities and 0 injuries.
+This was a landslide with medium severity near natural_slope caused by rain

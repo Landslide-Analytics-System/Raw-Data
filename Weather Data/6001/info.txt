@@ -1,0 +1,3 @@
+Landslide occurred on 2017-02-23 at 33.38247258, 75.7228768 in India.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with unknown severity near unknown caused by continuous_rain

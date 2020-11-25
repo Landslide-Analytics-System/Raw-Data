@@ -1,0 +1,3 @@
+Landslide occurred on 2017-06-05 at 25.14429782, 93.97198129 in India.
+ There were 0 fatalities and 0 injuries.
+This was a mudslide with medium severity near deforested_slope caused by flooding

@@ -1,0 +1,3 @@
+Landslide occurred on 2016-09-02 at 31.956546000000003, 77.109719 in India.
+ There were 4 fatalities and 5 injuries.
+This was a landslide with large severity near above_road caused by unknown

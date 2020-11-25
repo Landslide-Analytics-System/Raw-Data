@@ -1,0 +1,3 @@
+Landslide occurred on 2013-08-31 at 22.2841, 120.7255 in China.
+ There were 0 fatalities and 17 injuries.
+This was a rock_fall with medium severity near unknown caused by tropical_cyclone

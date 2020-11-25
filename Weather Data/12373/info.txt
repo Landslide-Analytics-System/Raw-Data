@@ -1,0 +1,3 @@
+Landslide occurred on 2011-06-17 at 26.84850975, 88.26181745 in India.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by continuous_rain

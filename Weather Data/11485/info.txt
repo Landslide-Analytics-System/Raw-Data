@@ -1,0 +1,3 @@
+Landslide occurred on 2018-06-05 at 22.87370331, 92.75812590000001 in India.
+ There were 10 fatalities and 0 injuries.
+This was a mudslide with medium severity near unknown caused by continuous_rain

@@ -1,0 +1,3 @@
+Landslide occurred on 2015-04-05 at 33.9243, 74.6163 in India.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by continuous_rain

@@ -1,0 +1,3 @@
+Landslide occurred on 2018-05-05 at 28.83598285, 103.36233370000001 in China.
+ There were 0 fatalities and 0 injuries.
+This was a rotational_slide with large severity near natural_slope caused by unknown

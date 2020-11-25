@@ -1,0 +1,3 @@
+Landslide occurred on 2014-07-30 at 19.162, 73.6873 in India.
+ There were 151 fatalities and 0 injuries.
+This was a mudslide with large severity near deforested_slope caused by continuous_rain

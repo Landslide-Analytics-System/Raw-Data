@@ -1,0 +1,3 @@
+Landslide occurred on 2013-08-19 at 30.6293, 78.3303 in India.
+ There were 0 fatalities and 0 injuries.
+This was a debris_flow with medium severity near unknown caused by downpour

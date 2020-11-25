@@ -1,0 +1,3 @@
+Landslide occurred on 2015-08-15 at 30.9111, 78.6814 in India.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by continuous_rain

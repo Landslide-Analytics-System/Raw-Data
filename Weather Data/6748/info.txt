@@ -1,0 +1,3 @@
+Landslide occurred on 2015-05-27 at 27.4694, 114.3101 in China.
+ There were 4 fatalities and 0 injuries.
+This was a landslide with medium severity near natural_slope caused by downpour

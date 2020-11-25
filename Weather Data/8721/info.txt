@@ -1,0 +1,3 @@
+Landslide occurred on 2017-05-20 at 30.73315585, 79.49231617 in India.
+ There were 13 fatalities and 0 injuries.
+This was a landslide with large severity near natural_slope caused by rain

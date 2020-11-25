@@ -1,0 +1,3 @@
+Landslide occurred on 2017-05-29 at 24.54070891, 121.86766019999999 in China.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by mining
