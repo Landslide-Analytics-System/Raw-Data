@@ -1,0 +1,3 @@
+Landslide occurred on 2017-03-19 at 23.32140323, 93.75079688 in Myanmar.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with unknown severity near natural_slope caused by unknown

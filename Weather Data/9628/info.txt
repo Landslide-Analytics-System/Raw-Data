@@ -1,0 +1,3 @@
+Landslide occurred on 2017-12-28 at 5.332365, 100.282196 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near above_road caused by continuous_rain

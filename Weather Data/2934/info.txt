@@ -1,0 +1,3 @@
+Landslide occurred on 2017-07-12 at 27.79280733, 84.43347027 in Nepal.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by continuous_rain

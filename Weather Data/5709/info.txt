@@ -1,0 +1,3 @@
+Landslide occurred on 2018-12-29 at 13.06945762, 123.96150209999999 in Philippines.
+ There were 2 fatalities and 4 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

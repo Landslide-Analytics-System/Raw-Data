@@ -1,0 +1,3 @@
+Landslide occurred on 2017-07-10 at 2.02724068, 112.65524690000001 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near natural_slope caused by unknown

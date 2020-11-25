@@ -1,0 +1,3 @@
+Landslide occurred on 2017-12-17 at 11.10694035, 124.6873744 in Philippines.
+ There were 1 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

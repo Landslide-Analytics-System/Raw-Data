@@ -1,0 +1,3 @@
+Landslide occurred on 2017-06-27 at 28.28120123, 83.86441477 in Nepal.
+ There were 0 fatalities and 1 injuries.
+This was a landslide with medium severity near above_road caused by continuous_rain

@@ -1,0 +1,3 @@
+Landslide occurred on 2014-08-02 at 27.7702, 85.8692 in Nepal.
+ There were 174 fatalities and 52 injuries.
+This was a landslide with large severity near above_river caused by continuous_rain

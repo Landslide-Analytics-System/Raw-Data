@@ -1,0 +1,3 @@
+Landslide occurred on 2015-06-03 at -8.7401, 115.5442 in Indonesia.
+ There were 3 fatalities and 0 injuries.
+This was a landslide with medium severity near mine caused by no_apparent_trigger

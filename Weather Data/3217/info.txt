@@ -1,0 +1,3 @@
+Landslide occurred on 2008-08-20 at 16.316, 120.7414 in Philippines.
+ There were 5 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

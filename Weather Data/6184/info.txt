@@ -1,0 +1,3 @@
+Landslide occurred on 2008-12-10 at 7.704506691000001, 126.142273 in Philippines.
+ There were 3 fatalities and 0 injuries.
+This was a landslide with medium severity near mine caused by continuous_rain

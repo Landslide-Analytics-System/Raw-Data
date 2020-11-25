@@ -1,0 +1,3 @@
+Landslide occurred on 2017-05-26 at 6.586835000000001, 80.16048599999999 in Sri.
+ There were Lanka fatalities and 0 injuries.
+This was a 0 with continuous_rain severity near medium caused by landslide

@@ -1,0 +1,3 @@
+Landslide occurred on 2011-05-30 at 39.407, 141.7315 in Japan.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near unknown caused by tropical_cyclone

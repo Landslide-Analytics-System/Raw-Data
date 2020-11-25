@@ -1,0 +1,3 @@
+Landslide occurred on 2009-10-08 at 17.6424, 121.3254 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

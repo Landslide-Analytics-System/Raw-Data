@@ -1,0 +1,3 @@
+Landslide occurred on 2017-07-10 at 11.01601242, 124.71026979999999 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_river caused by continuous_rain

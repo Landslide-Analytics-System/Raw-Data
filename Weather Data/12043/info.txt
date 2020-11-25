@@ -1,0 +1,3 @@
+Landslide occurred on 2017-08-18 at 35.41774913, 137.3122629 in Japan.
+ There were 3 fatalities and 11 injuries.
+This was a landslide with medium severity near above_road caused by downpour

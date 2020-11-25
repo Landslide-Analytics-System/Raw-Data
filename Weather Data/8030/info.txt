@@ -1,0 +1,3 @@
+Landslide occurred on 2011-10-16 at 9.667669077000001, 124.27316440000001 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

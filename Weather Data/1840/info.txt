@@ -1,0 +1,3 @@
+Landslide occurred on 2016-09-20 at 28.101232, 83.405823 in Nepal.
+ There were 1 fatalities and 5 injuries.
+This was a landslide with medium severity near natural_slope caused by ...

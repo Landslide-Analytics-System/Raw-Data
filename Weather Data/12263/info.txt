@@ -1,0 +1,3 @@
+Landslide occurred on 2016-07-09 at 14.8271, 120.2685 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near natural_slope caused by monsoon

@@ -1,0 +1,3 @@
+Landslide occurred on 2016-12-25 at 4.471586347, 101.369887 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near unknown caused by continuous_rain

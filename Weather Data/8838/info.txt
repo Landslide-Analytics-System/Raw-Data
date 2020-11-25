@@ -1,0 +1,3 @@
+Landslide occurred on 2013-09-16 at 35.7317, 135.9804 in Japan.
+ There were 0 fatalities and 0 injuries.
+This was a mudslide with medium severity near unknown caused by tropical_cyclone

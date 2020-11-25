@@ -1,0 +1,3 @@
+Landslide occurred on 2016-03-20 at 34.3331, 73.202 in Pakistan.
+ There were 3 fatalities and 0 injuries.
+This was a landslide with medium severity near natural_slope caused by downpour

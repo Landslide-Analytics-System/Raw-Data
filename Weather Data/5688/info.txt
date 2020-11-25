@@ -1,0 +1,3 @@
+Landslide occurred on 2017-09-07 at 20.21592687, 99.61582625 in Thailand.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with unknown severity near deforested_slope caused by downpour

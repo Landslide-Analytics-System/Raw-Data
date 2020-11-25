@@ -1,0 +1,3 @@
+Landslide occurred on 2017-11-05 at 5.467079, 100.274239 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near retaining_wall caused by continuous_rain

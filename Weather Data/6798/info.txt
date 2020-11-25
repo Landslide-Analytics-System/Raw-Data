@@ -1,0 +1,3 @@
+Landslide occurred on 2017-04-27 at 34.91321927, 72.75163388 in Pakistan.
+ There were 2 fatalities and 1 injuries.
+This was a landslide with medium severity near engineered_slope caused by rain
