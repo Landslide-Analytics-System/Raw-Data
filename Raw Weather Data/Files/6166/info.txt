@@ -1,0 +1,3 @@
+Landslide occurred on 2017-04-22 at 27.680247100000003, 93.62592773 in India.
+ There were 3 fatalities and 0 injuries.
+This was a landslide with small severity near natural_slope caused by continuous_rain

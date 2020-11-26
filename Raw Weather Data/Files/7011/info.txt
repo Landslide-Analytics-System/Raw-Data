@@ -1,0 +1,3 @@
+Landslide occurred on 2010-10-23 at 19.9166, 94.3761 in Myanmar.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

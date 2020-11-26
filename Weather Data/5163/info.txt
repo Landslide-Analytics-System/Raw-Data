@@ -1,3 +1,0 @@
-Landslide occurred on 2017-07-02 at 28.54909078, 108.5421686 in China.
- There were 0 fatalities and 0 injuries.
-This was a landslide with large severity near natural_slope caused by continuous_rain

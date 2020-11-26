@@ -1,0 +1,3 @@
+Landslide occurred on 2011-05-31 at 25.1555, 93.8474 in India.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near unknown caused by continuous_rain

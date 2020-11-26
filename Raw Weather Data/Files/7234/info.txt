@@ -1,0 +1,3 @@
+Landslide occurred on 2016-07-19 at 25.203000000000003, 90.5573 in India.
+ There were 0 fatalities and 0 injuries.
+This was a translational_slide with large severity near natural_slope caused by continuous_rain

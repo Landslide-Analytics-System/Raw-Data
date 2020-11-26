@@ -1,0 +1,3 @@
+Landslide occurred on 2017-11-17 at 29.83, 94.96 in China.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with very_large severity near natural_slope caused by earthquake

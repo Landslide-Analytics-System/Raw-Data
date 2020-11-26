@@ -1,3 +1,0 @@
-Landslide occurred on 2017-06-04 at 25.15246863, 92.94670614 in India.
- There were 0 fatalities and 0 injuries.
-This was a landslide with medium severity near natural_slope caused by continuous_rain

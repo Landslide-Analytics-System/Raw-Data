@@ -1,0 +1,3 @@
+Landslide occurred on 2012-01-05 at 7.192836513, 125.9690316 in Philippines.
+ There were 41 fatalities and 16 injuries.
+This was a landslide with very_large severity near mine caused by downpour

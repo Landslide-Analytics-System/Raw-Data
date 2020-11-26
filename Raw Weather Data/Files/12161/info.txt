@@ -1,0 +1,3 @@
+Landslide occurred on 2011-08-30 at 7.653, 122.9479 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

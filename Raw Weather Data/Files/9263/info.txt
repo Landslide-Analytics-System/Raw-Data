@@ -1,0 +1,3 @@
+Landslide occurred on 2009-05-26 at 26.8836, 88.2791 in India.
+ There were 7 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

@@ -1,3 +1,0 @@
-Landslide occurred on 2018-04-30 at 37.63704817, 110.95357309999999 in China.
- There were 9 fatalities and 0 injuries.
-This was a translational_slide with large severity near engineered_slope caused by unknown

@@ -1,0 +1,3 @@
+Landslide occurred on 2010-04-23 at 29.176, 97.7991 in China.
+ There were 0 fatalities and 0 injuries.
+This was a complex with medium severity near unknown caused by continuous_rain

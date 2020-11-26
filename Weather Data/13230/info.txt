@@ -1,3 +1,0 @@
-Landslide occurred on 2010-10-12 at -1.8667, 121.5 in Indonesia.
- There were 11 fatalities and 0 injuries.
-This was a landslide with large severity near natural_slope caused by continuous_rain

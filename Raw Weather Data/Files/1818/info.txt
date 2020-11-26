@@ -1,0 +1,3 @@
+Landslide occurred on 2017-03-07 at 6.9592220000000005, 80.794842 in Sri.
+ There were Lanka fatalities and 2 injuries.
+This was a 0 with construction severity near small caused by rock_fall

@@ -1,0 +1,3 @@
+Landslide occurred on 2012-06-02 at 14.5703, 121.1682 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

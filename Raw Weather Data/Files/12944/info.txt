@@ -1,0 +1,3 @@
+Landslide occurred on 2017-03-09 at 8.991164999999999, 124.891843 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near above_road caused by continuous_rain

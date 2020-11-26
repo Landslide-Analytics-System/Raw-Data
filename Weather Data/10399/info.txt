@@ -1,3 +1,0 @@
-Landslide occurred on 2017-07-03 at 26.20450454, 91.87202793 in India.
- There were 1 fatalities and 0 injuries.
-This was a landslide with medium severity near natural_slope caused by continuous_rain

@@ -1,0 +1,3 @@
+Landslide occurred on 2018-06-02 at -5.270867658, 144.54187180000002 in Papua.
+ There were New fatalities and Guinea injuries.
+This was a 2 with rock_fall severity near no_apparent_trigger caused by 1

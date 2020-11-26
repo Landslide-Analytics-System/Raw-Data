@@ -1,0 +1,3 @@
+Landslide occurred on 2016-10-18 at 5.3491, 100.2521 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a rock_fall with small severity near above_road caused by rain

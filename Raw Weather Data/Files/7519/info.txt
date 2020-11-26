@@ -1,0 +1,3 @@
+Landslide occurred on 2013-11-16 at 15.4522, 108.3927 in Vietnam.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

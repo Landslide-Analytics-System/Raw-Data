@@ -1,0 +1,3 @@
+Landslide occurred on 2009-09-29 at 14.5189, 107.8594 in Vietnam.
+ There were 0 fatalities and 0 injuries.
+This was a mudslide with medium severity near unknown caused by tropical_cyclone

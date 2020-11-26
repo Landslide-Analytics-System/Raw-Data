@@ -1,0 +1,3 @@
+Landslide occurred on 2013-08-05 at 37.0016, 110.8522 in China.
+ There were 8 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by continuous_rain

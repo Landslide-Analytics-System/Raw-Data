@@ -1,3 +1,0 @@
-Landslide occurred on 2016-05-18 at 24.4638, 92.4943 in India.
- There were 5 fatalities and 0 injuries.
-This was a landslide with medium severity near natural_slope caused by continuous_rain

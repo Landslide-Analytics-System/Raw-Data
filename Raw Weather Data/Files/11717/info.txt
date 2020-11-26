@@ -1,0 +1,3 @@
+Landslide occurred on 2018-05-19 at 37.01930606, 69.93700734 in Afghanistan.
+ There were 1 fatalities and 13 injuries.
+This was a mudslide with large severity near natural_slope caused by rain

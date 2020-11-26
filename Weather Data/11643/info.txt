@@ -1,3 +1,0 @@
-Landslide occurred on 2013-06-16 at 30.7351, 79.0666 in India.
- There were 5000 fatalities and 0 injuries.
-This was a debris_flow with very_large severity near unknown caused by downpour

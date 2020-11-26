@@ -1,0 +1,3 @@
+Landslide occurred on 2012-05-05 at 28.52206817, 84.07696086 in Nepal.
+ There were 72 fatalities and 0 injuries.
+This was a complex with large severity near natural_slope caused by unknown

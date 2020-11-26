@@ -1,0 +1,3 @@
+Landslide occurred on 2017-01-23 at 1.401449275, 110.3243565 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by downpour

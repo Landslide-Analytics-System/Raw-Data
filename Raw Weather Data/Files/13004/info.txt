@@ -1,0 +1,3 @@
+Landslide occurred on 2017-06-13 at 0.744821843, 120.59271629999999 in Indonesia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by rain

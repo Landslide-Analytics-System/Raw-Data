@@ -1,0 +1,3 @@
+Landslide occurred on 2011-07-03 at 27.20517346, 86.65683342 in Nepal.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by continuous_rain

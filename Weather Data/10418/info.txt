@@ -1,3 +1,0 @@
-Landslide occurred on 2016-08-30 at 3.1857830000000003, 101.677787 in Malaysia.
- There were 1 fatalities and 1 injuries.
-This was a landslide with medium severity near engineered_slope caused by downpour

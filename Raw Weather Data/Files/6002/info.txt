@@ -1,0 +1,3 @@
+Landslide occurred on 2008-09-28 at 24.995, 121.57 in China.
+ There were 0 fatalities and 0 injuries.
+This was a complex with medium severity near unknown caused by tropical_cyclone

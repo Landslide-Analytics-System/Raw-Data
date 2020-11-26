@@ -1,0 +1,3 @@
+Landslide occurred on 2017-09-25 at 28.545123999999998, 83.647074 in Nepal.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by no_apparent_trigger

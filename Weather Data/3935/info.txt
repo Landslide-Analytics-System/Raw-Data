@@ -1,3 +1,0 @@
-Landslide occurred on 2015-07-28 at 21.0893, 107.4603 in Vietnam.
- There were 9 fatalities and 1 injuries.
-This was a landslide with large severity near natural_slope caused by continuous_rain

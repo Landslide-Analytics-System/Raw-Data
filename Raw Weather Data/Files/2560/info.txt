@@ -1,0 +1,3 @@
+Landslide occurred on 2011-01-01 at 13.4567, 123.6793 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by downpour

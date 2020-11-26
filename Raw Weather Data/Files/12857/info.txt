@@ -1,0 +1,3 @@
+Landslide occurred on 2016-07-04 at 37.0109, 129.0783 in South.
+ There were Korea fatalities and 0 injuries.
+This was a 0 with downpour severity near medium caused by rock_fall

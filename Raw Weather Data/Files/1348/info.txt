@@ -1,0 +1,3 @@
+Landslide occurred on 2009-08-19 at 26.908, 87.9258 in Nepal.
+ There were 4 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by continuous_rain

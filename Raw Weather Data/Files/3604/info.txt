@@ -1,0 +1,3 @@
+Landslide occurred on 2015-05-12 at 28.0257, 85.7262 in Nepal.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near natural_slope caused by earthquake

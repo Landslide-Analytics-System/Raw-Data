@@ -1,0 +1,3 @@
+Landslide occurred on 2016-12-22 at 11.35008, 76.791735 in India.
+ There were 4 fatalities and 1 injuries.
+This was a landslide with medium severity near engineered_slope caused by construction

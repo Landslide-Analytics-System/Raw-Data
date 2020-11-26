@@ -1,0 +1,3 @@
+Landslide occurred on 2011-01-09 at 7.4239, 80.6104 in Sri.
+ There were Lanka fatalities and 0 injuries.
+This was a 0 with monsoon severity near medium caused by debris_flow

@@ -1,0 +1,3 @@
+Landslide occurred on 2013-06-18 at 19.0811, 73.0226 in India.
+ There were 3 fatalities and 2 injuries.
+This was a landslide with medium severity near unknown caused by continuous_rain

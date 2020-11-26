@@ -1,0 +1,3 @@
+Landslide occurred on 2016-04-22 at 27.5799, 91.8569 in India.
+ There were 17 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by continuous_rain
