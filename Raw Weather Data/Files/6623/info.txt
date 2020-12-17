@@ -1,3 +1,0 @@
-Landslide occurred on 2015-12-18 at 12.1512, 123.6452 in Philippines.
- There were 3 fatalities and 0 injuries.
-This was a landslide with medium severity near natural_slope caused by continuous_rain

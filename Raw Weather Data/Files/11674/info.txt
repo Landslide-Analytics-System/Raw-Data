@@ -1,3 +1,0 @@
-Landslide occurred on 2016-12-10 at 3.9834050000000003, 102.431673 in Malaysia.
- There were 2 fatalities and 2 injuries.
-This was a landslide with medium severity near natural_slope caused by rain

@@ -1,3 +1,0 @@
-Landslide occurred on 2017-07-11 at 27.20938411, 93.61539279 in India.
- There were 14 fatalities and 0 injuries.
-This was a landslide with large severity near natural_slope caused by continuous_rain

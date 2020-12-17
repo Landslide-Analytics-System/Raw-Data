@@ -1,3 +1,0 @@
-Landslide occurred on 2018-05-17 at 5.456015442000001, 100.2650393 in Malaysia.
- There were 0 fatalities and 0 injuries.
-This was a landslide with medium severity near natural_slope caused by other

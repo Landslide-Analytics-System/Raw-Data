@@ -1,3 +1,0 @@
-Landslide occurred on 2016-05-21 at 22.394574600000002, 114.3543952 in China.
- There were 0 fatalities and 0 injuries.
-This was a landslide with large severity near natural_slope caused by rain

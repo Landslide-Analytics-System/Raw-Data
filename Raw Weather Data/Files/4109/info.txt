@@ -1,3 +1,0 @@
-Landslide occurred on 2016-08-24 at 22.33644964, 103.84485740000001 in Vietnam.
- There were 0 fatalities and 1 injuries.
-This was a landslide with medium severity near natural_slope caused by rain

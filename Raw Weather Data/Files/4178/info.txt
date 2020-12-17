@@ -1,3 +1,0 @@
-Landslide occurred on 2015-08-08 at 25.0857, 121.5399 in China.
- There were 0 fatalities and 0 injuries.
-This was a debris_flow with medium severity near unknown caused by tropical_cyclone

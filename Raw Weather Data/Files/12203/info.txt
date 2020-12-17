@@ -1,3 +1,0 @@
-Landslide occurred on 2011-03-30 at 8.9607, 99.8832 in Thailand.
- There were 0 fatalities and 0 injuries.
-This was a debris_flow with medium severity near natural_slope caused by downpour

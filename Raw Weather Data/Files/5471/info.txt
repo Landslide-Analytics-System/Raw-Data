@@ -1,3 +1,0 @@
-Landslide occurred on 2017-01-04 at 0.22873047, 99.96997487 in Indonesia.
- There were 0 fatalities and 0 injuries.
-This was a landslide with large severity near natural_slope caused by downpour

@@ -1,3 +1,0 @@
-Landslide occurred on 2017-04-01 at -7.853409423, 111.67994440000001 in Indonesia.
- There were 27 fatalities and 0 injuries.
-This was a landslide with medium severity near natural_slope caused by rain

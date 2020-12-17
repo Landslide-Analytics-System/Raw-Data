@@ -1,3 +1,0 @@
-Landslide occurred on 2008-09-08 at 35.8853, 111.5837 in China.
- There were 277 fatalities and 33 injuries.
-This was a complex with very_large severity near mine caused by dam_embankment_collapse

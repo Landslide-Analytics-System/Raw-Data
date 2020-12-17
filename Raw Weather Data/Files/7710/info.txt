@@ -1,3 +1,0 @@
-Landslide occurred on 2015-09-23 at 25.583000000000002, 91.89299999999999 in India.
- There were 2 fatalities and 1 injuries.
-This was a landslide with medium severity near natural_slope caused by downpour
