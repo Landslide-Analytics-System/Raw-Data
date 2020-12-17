@@ -1,0 +1,3 @@
+Landslide occurred on 2016-11-05 at 34.10563, 71.15706800000001 in Pakistan.
+ There were 2 fatalities and 1 injuries.
+This was a landslide with small severity near engineered_slope caused by construction

@@ -1,0 +1,3 @@
+Landslide occurred on 2014-07-08 at 11.5735, 122.1001 in Philippines.
+ There were 0 fatalities and 4 injuries.
+This was a landslide with small severity near unknown caused by tropical_cyclone

@@ -1,0 +1,3 @@
+Landslide occurred on 2008-05-18 at 16.7489, 120.7967 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

@@ -1,0 +1,3 @@
+Landslide occurred on 2015-05-26 at 10.006, 105.7492 in Vietnam.
+ There were 0 fatalities and 0 injuries.
+This was a riverbank_collapse with medium severity near above_river caused by unknown

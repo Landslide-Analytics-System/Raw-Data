@@ -1,0 +1,3 @@
+Landslide occurred on 2010-09-11 at 30.2745, 120.1542 in China.
+ There were 0 fatalities and 0 injuries.
+This was a complex with medium severity near unknown caused by tropical_cyclone

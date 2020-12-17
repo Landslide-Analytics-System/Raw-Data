@@ -1,0 +1,3 @@
+Landslide occurred on 2016-11-10 at 32.83198, 75.730159 in India.
+ There were 2 fatalities and 0 injuries.
+This was a rock_fall with small severity near natural_slope caused by construction

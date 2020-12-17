@@ -1,0 +1,3 @@
+Landslide occurred on 2017-07-06 at 11.20931786, 124.65325990000002 in Philippines.
+ There were 0 fatalities and 26 injuries.
+This was a landslide with medium severity near natural_slope caused by earthquake

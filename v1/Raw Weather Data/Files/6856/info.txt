@@ -1,0 +1,3 @@
+Landslide occurred on 2017-02-26 at -7.619105355, 110.1946528 in Indonesia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with unknown severity near unknown caused by continuous_rain

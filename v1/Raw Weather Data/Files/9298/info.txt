@@ -1,0 +1,3 @@
+Landslide occurred on 2018-12-18 at -7.454505999999999, 108.87154699999999 in Indonesia.
+ There were 0 fatalities and 1 injuries.
+This was a landslide with unknown severity near unknown caused by continuous_rain

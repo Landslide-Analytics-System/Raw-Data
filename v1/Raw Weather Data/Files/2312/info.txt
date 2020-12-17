@@ -1,0 +1,3 @@
+Landslide occurred on 2016-07-16 at 17.0224, 121.8319 in Philippines.
+ There were 2 fatalities and 0 injuries.
+This was a riverbank_collapse with small severity near above_river caused by unknown

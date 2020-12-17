@@ -1,0 +1,3 @@
+Landslide occurred on 2014-09-02 at 30.9583, 110.6064 in China.
+ There were 0 fatalities and 0 injuries.
+This was a translational_slide with medium severity near other caused by unknown

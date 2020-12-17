@@ -1,0 +1,3 @@
+Landslide occurred on 2016-11-01 at 24.506937, 91.588893 in Bangladesh.
+ There were 2 fatalities and 0 injuries.
+This was a landslide with medium severity near natural_slope caused by mining

@@ -1,0 +1,3 @@
+Landslide occurred on 2017-01-15 at 10.1943788, 123.564923 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with unknown severity near natural_slope caused by downpour

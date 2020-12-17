@@ -1,0 +1,3 @@
+Landslide occurred on 2016-10-04 at 28.7835, 119.3033 in China.
+ There were 27 fatalities and 0 injuries.
+This was a landslide with large severity near natural_slope caused by tropical_cyclone

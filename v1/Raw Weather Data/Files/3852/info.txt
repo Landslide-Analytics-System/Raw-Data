@@ -1,0 +1,3 @@
+Landslide occurred on 2015-07-16 at 37.5773, 71.7041 in Tajikistan.
+ There were 0 fatalities and 0 injuries.
+This was a mudslide with medium severity near natural_slope caused by snowfall_snowmelt

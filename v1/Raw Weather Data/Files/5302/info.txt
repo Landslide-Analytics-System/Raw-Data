@@ -1,0 +1,3 @@
+Landslide occurred on 2014-07-21 at 24.4267, 98.5852 in China.
+ There were 10 fatalities and 4 injuries.
+This was a mudslide with medium severity near unknown caused by tropical_cyclone

@@ -1,0 +1,3 @@
+Landslide occurred on 2014-07-18 at 27.8126, 84.8051 in Nepal.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near above_road caused by continuous_rain

@@ -1,0 +1,3 @@
+Landslide occurred on 2015-03-03 at 30.1818, 81.4392 in Nepal.
+ There were 0 fatalities and 0 injuries.
+This was a snow_avalanche with medium severity near above_river caused by unknown

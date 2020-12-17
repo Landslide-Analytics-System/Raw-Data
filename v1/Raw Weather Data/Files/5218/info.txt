@@ -1,0 +1,3 @@
+Landslide occurred on 2015-04-21 at 12.1984, 100.0092 in Thailand.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near other caused by tropical_cyclone

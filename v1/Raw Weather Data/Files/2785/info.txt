@@ -1,0 +1,3 @@
+Landslide occurred on 2016-08-14 at 28.069957000000002, 85.01 in Nepal.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with large severity near natural_slope caused by rain

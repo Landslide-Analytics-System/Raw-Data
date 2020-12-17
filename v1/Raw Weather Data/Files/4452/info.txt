@@ -1,0 +1,3 @@
+Landslide occurred on 2017-06-27 at 11.51185539, 76.01854791 in India.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near above_road caused by continuous_rain

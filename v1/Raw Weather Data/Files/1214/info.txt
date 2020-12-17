@@ -1,0 +1,3 @@
+Landslide occurred on 2008-08-07 at 22.2666, 104.07 in Vietnam.
+ There were 37 fatalities and 0 injuries.
+This was a complex with medium severity near unknown caused by tropical_cyclone

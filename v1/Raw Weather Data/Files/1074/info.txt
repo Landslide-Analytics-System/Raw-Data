@@ -1,0 +1,3 @@
+Landslide occurred on 2017-05-28 at 24.89456743, 121.73342790000001 in China.
+ There were 0 fatalities and 0 injuries.
+This was a rock_fall with small severity near above_road caused by rain

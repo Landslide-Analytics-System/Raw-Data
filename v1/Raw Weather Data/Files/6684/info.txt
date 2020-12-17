@@ -1,0 +1,3 @@
+Landslide occurred on 2014-07-28 at 29.5829, 80.2182 in India.
+ There were 7 fatalities and 12 injuries.
+This was a landslide with medium severity near unknown caused by continuous_rain

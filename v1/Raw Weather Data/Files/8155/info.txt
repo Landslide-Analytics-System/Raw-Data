@@ -1,0 +1,3 @@
+Landslide occurred on 2016-08-04 at 30.7386, 79.4954 in India.
+ There were 0 fatalities and 0 injuries.
+This was a debris_flow with medium severity near above_road caused by continuous_rain

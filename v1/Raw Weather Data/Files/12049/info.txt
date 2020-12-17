@@ -1,0 +1,3 @@
+Landslide occurred on 2018-08-29 at 30.35948514, 78.37742809 in India.
+ There were 7 fatalities and 1 injuries.
+This was a debris_flow with medium severity near deforested_slope caused by downpour

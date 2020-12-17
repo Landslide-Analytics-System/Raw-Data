@@ -1,0 +1,3 @@
+Landslide occurred on 2016-07-08 at 30.0554, 102.6171 in China.
+ There were 0 fatalities and 0 injuries.
+This was a rock_fall with medium severity near above_road caused by downpour

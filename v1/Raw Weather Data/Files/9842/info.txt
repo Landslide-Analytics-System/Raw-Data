@@ -1,0 +1,3 @@
+Landslide occurred on 2015-07-25 at 26.1062, 91.8717 in India.
+ There were 2 fatalities and 0 injuries.
+This was a landslide with medium severity near natural_slope caused by continuous_rain

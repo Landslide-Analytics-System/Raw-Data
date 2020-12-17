@@ -1,0 +1,3 @@
+Landslide occurred on 2013-06-24 at 30.4542, 78.3911 in India.
+ There were 0 fatalities and 0 injuries.
+This was a debris_flow with medium severity near unknown caused by downpour

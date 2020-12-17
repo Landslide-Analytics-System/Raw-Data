@@ -1,0 +1,3 @@
+Landslide occurred on 2016-03-17 at 33.13810294, 75.51068484 in India.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by continuous_rain

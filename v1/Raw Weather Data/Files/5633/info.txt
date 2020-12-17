@@ -1,0 +1,3 @@
+Landslide occurred on 2017-09-30 at 27.303998999999997, 92.407813 in India.
+ There were 0 fatalities and 0 injuries.
+This was a rock_fall with large severity near above_road caused by unknown

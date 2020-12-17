@@ -1,0 +1,3 @@
+Landslide occurred on 2015-07-14 at 12.8747, 74.9566 in India.
+ There were 3 fatalities and 0 injuries.
+This was a landslide with small severity near other caused by continuous_rain

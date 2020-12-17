@@ -1,0 +1,3 @@
+Landslide occurred on 2008-09-22 at 16.427, 120.587 in Philippines.
+ There were 2 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

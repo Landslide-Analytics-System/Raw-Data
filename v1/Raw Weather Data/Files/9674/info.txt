@@ -1,0 +1,3 @@
+Landslide occurred on 2011-08-28 at 19.1355, 72.9981 in India.
+ There were 2 fatalities and 1 injuries.
+This was a landslide with medium severity near unknown caused by continuous_rain

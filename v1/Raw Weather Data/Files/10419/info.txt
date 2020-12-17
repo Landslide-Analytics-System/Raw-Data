@@ -1,0 +1,3 @@
+Landslide occurred on 2017-06-30 at 6.190195, 100.331416 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near natural_slope caused by unknown

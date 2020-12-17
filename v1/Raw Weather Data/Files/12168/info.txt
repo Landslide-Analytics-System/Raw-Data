@@ -1,0 +1,3 @@
+Landslide occurred on 2017-11-10 at 5.355873, 100.430408 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a other with small severity near urban caused by tropical_cyclone

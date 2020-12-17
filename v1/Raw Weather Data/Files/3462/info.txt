@@ -1,0 +1,3 @@
+Landslide occurred on 2014-06-23 at 20.4516, 105.1433 in Vietnam.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near above_road caused by continuous_rain

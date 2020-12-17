@@ -1,0 +1,3 @@
+Landslide occurred on 2017-02-22 at 3.086036242, 112.83749479999999 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near natural_slope caused by continuous_rain

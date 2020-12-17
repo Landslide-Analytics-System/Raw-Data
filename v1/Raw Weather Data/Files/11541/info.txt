@@ -1,0 +1,3 @@
+Landslide occurred on 2014-09-17 at 10.3026, 123.9067 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near unknown caused by tropical_cyclone

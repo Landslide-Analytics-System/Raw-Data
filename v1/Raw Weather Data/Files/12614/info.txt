@@ -1,0 +1,3 @@
+Landslide occurred on 2016-10-16 at 16.8052, 120.8222 in Philippines.
+ There were 0 fatalities and 0 injuries.
+This was a debris_flow with medium severity near above_road caused by tropical_cyclone

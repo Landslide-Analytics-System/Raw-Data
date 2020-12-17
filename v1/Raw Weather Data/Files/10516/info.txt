@@ -1,0 +1,3 @@
+Landslide occurred on 2015-06-15 at 6.067357382000001, 116.5887854 in Malaysia.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with large severity near natural_slope caused by downpour

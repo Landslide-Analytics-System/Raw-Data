@@ -1,0 +1,3 @@
+Landslide occurred on 2016-09-28 at 27.8057, 119.9994 in China.
+ There were 6 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by tropical_cyclone

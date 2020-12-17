@@ -1,0 +1,3 @@
+Landslide occurred on 2008-03-17 at 32.2862, 77.1613 in India.
+ There were 25 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by snowfall_snowmelt

@@ -1,0 +1,3 @@
+Landslide occurred on 2014-09-26 at 33.0365, 74.4889 in India.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with medium severity near unknown caused by continuous_rain

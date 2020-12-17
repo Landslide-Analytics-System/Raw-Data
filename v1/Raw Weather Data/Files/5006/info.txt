@@ -1,0 +1,3 @@
+Landslide occurred on 2017-06-13 at 22.25721598, 114.20927209999999 in China.
+ There were 0 fatalities and 0 injuries.
+This was a landslide with small severity near above_road caused by tropical_cyclone
